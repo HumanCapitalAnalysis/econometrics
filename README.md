@@ -89,7 +89,7 @@ retrospective.](https://www.jstor.org/stable/2586935) *The Quarterly Journal of 
 
 ### Experiments
 
-* Burtless, G. (1995). [The Case for randomized field trials in economic and policy research.](https://www.aeaweb.org/articles?id=10.1257/jep.9.2.63) *Journal of Economic Perspectives, 9*(2), 63-84.
+* Burtless, G. (1995). [The case for randomized field trials in economic and policy research.](https://www.aeaweb.org/articles?id=10.1257/jep.9.2.63) *Journal of Economic Perspectives, 9*(2), 63-84.
 
 * Heckman, J. J., and Smith, J. A. (1995). [Assessing the case for social experiments.](https://www.aeaweb.org/articles?id=10.1257/jep.9.2.85) *Journal of Economic Perspectives, 9*(2), 85-110.
 
@@ -113,10 +113,10 @@ We will not cover each estimation method in detail and instead focus on the rela
 
 We found the following references useful:
 
-- Strunk, W., and White, E. B. (2000). [The Elements of style.](https://books.google.de/books?id=MhTEmgEACAAJ&dq=the+elements+of+style+2000&hl=de&sa=X&ved=0ahUKEwjXhoeJtZjXAhVFlxoKHfu-DakQ6AEIKjAA) Longman, New York, NY. 
+- Strunk, W., and White, E. B. (2000). [The elements of style.](https://books.google.de/books?id=MhTEmgEACAAJ&dq=the+elements+of+style+2000&hl=de&sa=X&ved=0ahUKEwjXhoeJtZjXAhVFlxoKHfu-DakQ6AEIKjAA) Longman, New York, NY. 
 - Wallwork, A. (2016). [English for writing research papers.](https://books.google.de/books?id=a0-vCwAAQBAJ&hl=de&source=gbs_book_other_versions) Springer International Publishing, Basel, Switzerland. 
 - Wallwork A. (2016). [English for presentations at international conferences.](https://books.google.de/books?id=ntKwCwAAQBAJ&dq=English+for+presentations+at+international+conferences&hl=de&source=gbs_navlinks_s) Springer International Publishing, Basel, Switzerland.
-- Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., and FitzGerald, W. T. (2016). [The Craft of research.](https://books.google.de/books?id=SjPqDAAAQBAJ&dq=The%20Craft%20of%20Research&hl=de&source=gbs_book_other_versions) University of Chicago Press., Chicago, IL.
+- Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., and FitzGerald, W. T. (2016). [The craft of research.](https://books.google.de/books?id=SjPqDAAAQBAJ&dq=The%20Craft%20of%20Research&hl=de&source=gbs_book_other_versions) University of Chicago Press., Chicago, IL.
 - Adler, M. J., and Van Doren, C. (2011). [How to read a book.](https://books.google.de/books/about/How_to_Read_a_Book.html?id=Z5PpkQadm5EC&redir_esc=y) Touchstone, New York, NY.
 - Clark, R. P. (2006). [Writing tools: 50 essential strategies for every writer](https://www.amazon.com/Writing-Tools-Essential-Strategies-Writer/dp/0316014990). Little, Brown, and Co.,  New York.
 - King, S. (2000). [On writing: A memoir of the craft](https://www.amazon.de/Writing-Memoir-Craft-Stephen-King/dp/1439156816). Scribner,  New York.
